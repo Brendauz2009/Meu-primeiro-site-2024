@@ -5,4 +5,8 @@ body {
 
 header {
     background-color: rgb(255, 196, 239);
+font-size: 32px;
+padding: 10px;
+border-bottom: solid 2px #cc90effb;
 }
+ 
