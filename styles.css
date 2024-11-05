@@ -10,3 +10,10 @@ padding: 10px;
 border-bottom: solid 2px #cc90effb;
 }
  
+.primeirovideo {
+    background-color: rgb(226, 43, 214);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
